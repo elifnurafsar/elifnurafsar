@@ -11,30 +11,30 @@
 
 <br>
 
-## About Me
+## 🧚‍♀️ About Me 🧚‍♀️
 I'm a passionate and self-motivated software developer with a keen eye for detail. Graduated from TOBB University of Economics and Technology with a degree in Computer Engineering 👩🏻‍💻👩🏻‍🎓. I constantly strive for self-improvement in the field of technology. My interests lie in creating reliable and performance-driven solutions. I am a member of the TOBB ETÜ AI club, where I collaborate with like-minded individuals to explore the fascinating world of artificial intelligence 🦾🔭.
 
 
 <br>
 
-## Projects
+## 👩🏻‍💻 Projects
 EnerGIS: A cutting-edge GIS web application built with .NET, C#, TypeScript, and PL/pgSQL. Contributed to enhancing features and ensuring code quality.
 OpenCPN: Contributed an innovative offline navigation desktop application, incorporating various sensor data to visualize routes and objects in detail 🗺️📍.
 
 <br>
 
-## Volunteer Project
+## 🤍 Volunteer Project
 I am proud to have been a part of the "From Your Eyes" project, where we created image descriptions for individuals with visual impairments. Our dedication and impact led us to secure the first position in the İTÜ Çekirdek Big Bang Elections 🥇.
 
 <br>
 
 
-## Interests 🎭🖼️👩🏻‍🎨🦜
+## 🎭🖼️👩🏻‍🎨🦜 Interests 
 My passion lies in engaging in deep conversations about technology and art, while striving to produce something valuable.
 
 <br>
 
-## Let's Connect 📧
+## 📧 Let's Connect 
 I'm always open to exciting opportunities and collaborations. Feel free to reach out to me at elifnurafsr@gmail.com.
 
 <br>
